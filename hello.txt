@@ -1,8 +1,7 @@
 hello! 111111
+<<<<<<< HEAD
 hello! 222222
-hello!
-hello!
-hello! 
+hello! 33
 hello!
 hello!
 hello!
